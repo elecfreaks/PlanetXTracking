@@ -1,5 +1,5 @@
-#ifndef _PlanetXTRACKING_H_
-#define _PlanetXTRACKING_H_
+#ifndef _PLANETXTRACKING_H_
+#define _PLANETXTRACKING_H_
 
 #include "RJPins.h"
 
